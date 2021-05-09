@@ -4,14 +4,13 @@ This week focuses on various ways to visualize time series.
 ## Lesson Plan
 
 Step through the following notebooks:
-1. [Data Wrangling](les1-wrangling.ipynb): Step through this notebook as a review of the chapter
+1. [Pandas Visualization](les1-pandas-viz.ipynb): Step through this notebook 
+2. [Customizing TS Visualization](les2-customizing.ipynb): Step through this notebook to better understand how to customize matplotlib plots
 
 ## Homework
 
-1. [Resampling](hw1-resampling.ipynb): Apply varioius resampling techniques you've learned to a new dataset
-2. [Windowing](hw2-rolling.ipynb): Apply varioius windowing and rolling functions you've learned to a new dataset
+1. [Time Series Visualization](hw1-ts-viz.ipynb): Problems asking to create many different types of ts visualizations
 
 ## Solution
 
-1. [Resampling](sol1-resampling.ipynb): Apply varioius resampling techniques you've learned to a new dataset
-2. [Windowing](sol2-rolling.ipynb): Apply varioius windowing and rolling functions you've learned to a new dataset
+1. [Time Series Visualization](sol1-ts-viz.ipynb): Solution set
