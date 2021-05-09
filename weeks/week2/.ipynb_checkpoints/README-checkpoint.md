@@ -5,7 +5,7 @@ This week focuses on various data wrangling using pandas with special focus on t
 Read Chapter 2 In Vishwas, paying special attention the resampling, shifting, and windowing sections.  
 
 Step through the following notebooks:
-1. [Data Wrangling]('Data wrangling using pandas and pandasql.ipynb')
+1. [Data Wrangling](les1-wrangling.ipynb): Step through this notebook as a review of the chapter
 
 ## Homework
 
