@@ -1,5 +1,6 @@
 # Week 3
 ![image](ts-viz.png)
+
 This week focuses on various ways to visualize time series.
 
 ## Lesson Plan

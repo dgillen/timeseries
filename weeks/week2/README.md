@@ -14,5 +14,5 @@ Step through the following notebooks:
 
 ## Solution
 
-1. [Resampling](sol1-resampling.ipynb): Apply varioius resampling techniques you've learned to a new dataset
-2. [Windowing](sol2-rolling.ipynb): Apply varioius windowing and rolling functions you've learned to a new dataset
+1. [Resampling](sol1-resampling.ipynb): Resampling solution code
+2. [Windowing](sol2-rolling.ipynb): Windowing solution code
