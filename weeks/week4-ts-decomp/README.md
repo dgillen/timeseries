@@ -7,7 +7,7 @@ This week focuses on various ways to decompose a time series into the trend, sea
 ## Lesson Plan
 
 Step through the following notebooks:
-1. [Covid Seasonal Adjustment](les3-covid-decomp.ipynb): Step through this notebook 
+1. [Covid Seasonal Adjustment](les3-covid-decomp.ipynb): Step throught this notebook to get a bette understanding 
 2. [Customizing TS Visualization](les2-customizing.ipynb): Step through this notebook to better understand how to customize matplotlib plots
 
 ## Homework
