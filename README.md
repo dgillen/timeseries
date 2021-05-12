@@ -33,10 +33,8 @@ This course is designed to provide a comprehensive introduction to most time ser
 9. Deploy time series models on Azure Workspace
 10. Classify time series using state of the art methods and preparation techniques.
 
-# Weekly Schedule
+# Repo Struture
 
-Each week of the 16 week has its own folder within the weeks directory & each folder has the following set of files
-
-* **Lessons**: These notebooks are prefixed with `les1`, `les2`, etc. This material is meant to supplemental the textbook
-* **Homework**: These notebooks are prexied with `hw1`, `hw2`, etc.  These are the weekly assignment problems.
-* **Solutions**: These notebooks are prefixed with `sol1`, `sol2`, etc.  These are the solutions to the assignments.
+* **[weeks](./weeks)**: Contains the lessons plans, homework, and solution for EACH week
+* **[data](./data)**: Contains all the necessary CSVs, XLSXs, and other data files necessary for the weeky notebooks
+* **[repos](./repos)**: External repos that supplement this course content.
