@@ -1,6 +1,6 @@
 # Week 4
 ![image](https://miro.medium.com/max/1214/1*l3TW9hwiD-BFNOtRuSQD5w.png)
-<sub>Image from Nikolaos Kourentzes</sub>
+<center><sub>Image from Nikolaos Kourentzes</sub></center>
 
 This week focuses on various ways to decompose a time series into the trend, seasonal, & residual components
 

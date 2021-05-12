@@ -1,4 +1,5 @@
 # Week 2
+![image](timediff.jpeg)
 This week focuses on various data wrangling using pandas with special focus on time series manipulations such as resampling, shifting, and windowing functions
 
 ## Lesson Plan
