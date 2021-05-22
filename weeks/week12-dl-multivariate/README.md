@@ -1,5 +1,5 @@
 # Week 12 `Multivariate Deep Learning`
-![image](anomalies.png)
+![image](mv-dl.png)
 
 This week we'll focus on using multivariate deep learning techniques to do time series forecasting.
 
