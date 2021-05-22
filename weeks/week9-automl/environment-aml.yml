@@ -1,0 +1,15 @@
+name: azureml
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - matplotlib
+  - pandas
+  - matplotlib 
+  - tqdm 
+  - scikit-learn
+  - pip
+  - pip:
+    - azureml-sdk
+    - azuremlftk
+    - azure-cli
