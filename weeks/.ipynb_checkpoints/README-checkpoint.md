@@ -18,7 +18,7 @@ Each subdirectory of the 16 weeks has the following set of files/director
 7. **[Week 7: Regression Part 2](./week7-reg-2)**: Additional Univariate forecasting regression techniques such as SARIMA & SARIMAX and Multivariate techniques such as VAR
 8. **[Week 8: Manual Machine Learning](./week8-ml)**: How to apply ML techniques such as Random Forests and SVM to times series
 9. **Week 9: Automated Machine Learning**: How to leverage Azure ML to automate the training of ML models for time series
-10. **Week 10: Model Deployment**: How to leverage Azure ML to deploy trained time series models
+10. **[Week 10: Practitioner Packages]**: Learn how to apply several python packages to address auxiliary concerns such as unevenly spaces time series & anomaly detection
 11. **[Week 11: Deep Learning Techniques for Univariate Time Series](./week11-dl-univariate)**: How to build various DL architectures for univariate time series
 12. **[Week 12: Deep Learning Techniques for Multivariate Time Series](./week12-dl-multivariate)**: How to build various DL architectures for multivariate time series
 13. **Week 13: Prophet**: How to apply Facebook's Prophet forecasting package to time series

@@ -14,17 +14,17 @@ As a practitioner, it's important to know what the latest/helper packages are be
 ## Lesson Plan
 
 Read through the markdown, code, and outputs in the following notebooks in order to 
-1. [Anomaly Detection](les1-anomaly.ipynb): This notebook guides you through various types of anomalies & how to detect them using various smoothing methods from the `tssmoothie` pkg
-2. [UnEvenly Spaced Time Series](les2-traces.ipynb): Leverages the the `traces` package to handle uneven time series 
-3. []
+1. [Anomaly Detection](./les1-anomaly.ipynb): This notebook guides you through various types of anomalies & how to detect them using various smoothing methods from the `tssmoothie` pkg
+2. [UnEvenly Spaced Time Series](./les2-traces.ipynb): Leverages the the `traces` package to handle uneven time series 
+3. [Darts Tutorial](./les3-darts.ipynb): Step througt the execellent introductory tutorial to `darts`
 
 ## Homework
 
-1. [Time Series Visualization](hw1-ts-viz.ipynb): Problems asking to create many different types of ts visualizations
+Write a **one-page brief** on the above packages in which you describe how a practitioner might apply these tools to various problems. Discuss the following topics
 
-## Solution
+* **Importance**: Why is it important for a practitioner to be aware of these packages and packages like them?
+* **Continued Education**: Besides this week's lesson, how else might you learn about these packes and others?
+* **Challenges**: What are some key challenges in applying these packages?
+* **Additional Packages** Review [MaxBenChrist's excellent summary of time series packages](https://github.com/MaxBenChrist/awesome_time_series_in_python) & select a few that look most promising to try next and state why?
 
-1. [Time Series Visualization](sol1-ts-viz.ipynb): Solution set
-
-# 
 
