@@ -1,22 +1,21 @@
 # Week 14
-![image](ts-viz.png)
+![image](classify.png)
 
-This week focuses on various ways to classify time series and focuses on 3 key python packages
+A common task for time series machine learning is classification. Given a set of time series with class labels, can we train a model to accurately predict the class of new time series?
 
-1. **[sktime]()**
-2. **[tslearn](https://github.com/rtavenar/tslearn)**:provides machine learning tools for the analysis of time series. 
-3. **[pts](https://github.com/johannfaouzi/pyts)**: aims to make time series classification easily accessible by providing preprocessing and utility tools, and implementations of state-of-the-art algorithms. Most of these algorithms transform time series, thus pyts provides several tools to perform these transformations.
+There are many algorithms dedicated to time series classification! This means you don’t have wrangle your data into a scikit-learn classifier or to turn to deep learning to solve every time series classification task.
 
 ## Lesson Plan
 
 Step through the following notebooks:
-1. [Pandas Visualization](les1-pandas-viz.ipynb): Step through this notebook 
-2. [Customizing TS Visualization](les2-customizing.ipynb): Step through this notebook to better understand how to customize matplotlib plots
+1. **[Deep Learning (DL) Classification](./les2-dl-classify.ipynb)**: This notebook from a very informative [Keras.io Tutorial](https://keras.io/examples/timeseries/timeseries_classification_from_scratch/) provides a great way to learn how to apply a DL model to detect issues in engines from motor sensors.
+2. **[Sktime Methods](les1-sktime.ipynb)**: Step through this notebook to see some great examples of the various algorithms implemented in the great [sktime package](https://github.com/alan-turing-institute/sktime)
+3. **[Sktime TS Representation](https://www.sktime.org/en/latest/examples/loading_data.html#)**: Read this good documentation on how sktime represents time series as you'll need it for this week's homework assignment
 
 ## Homework
 
-1. [Time Series Visualization](hw1-ts-viz.ipynb): Problems asking to create many different types of ts visualizations
+[Classifier Comparison](hw1-compare.ipynb): This assignment asks you to apply various `sktime` classifiers to the engine issue problem we looked at within the DL tutorial.
 
 ## Solution
 
-1. [Time Series Visualization](sol1-ts-viz.ipynb): Solution set
+[Classifier Comparison](sol1-compare.ipynb): Solution set

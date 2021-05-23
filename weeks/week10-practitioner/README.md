@@ -8,12 +8,15 @@ As a practitioner, it's important to know what the latest/helper packages are be
 1. **[Darts](https://github.com/unit8co/darts)**: Easy manipulation and forecasting of time series
 2. **[Slices](https://github.com/datascopeanalytics/traces)**: Unevenly-spaced time series analysis.
 3. **[tssmoothie](https://github.com/cerlymarco/tsmoothie)** : Time-series smoothing and outlier detection in a vectorized way.
+4. **[tslearn](https://github.com/rtavenar/tslearn)**:provides machine learning tools for the analysis of time series. 
+5. **[pyts](https://github.com/johannfaouzi/pyts)**: aims to make time series classification easily accessible by providing preprocessing and utility tools, and implementations of state-of-the-art algorithms. Most of these algorithms transform time series, thus pyts provides several tools to perform these transformations.
 
 ## Lesson Plan
 
 Read through the markdown, code, and outputs in the following notebooks in order to 
 1. [Anomaly Detection](les1-anomaly.ipynb): This notebook guides you through various types of anomalies & how to detect them using various smoothing methods from the `tssmoothie` pkg
 2. [UnEvenly Spaced Time Series](les2-traces.ipynb): Leverages the the `traces` package to handle uneven time series 
+3. []
 
 ## Homework
 
