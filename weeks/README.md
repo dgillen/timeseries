@@ -21,7 +21,7 @@ Each subdirectory of the 16 weeks has the following set of files/director
 10. **[Week 10: Practitioner Packages](./week10-practitioner)**: Learn how to apply several python packages to address auxiliary concerns such as unevenly spaces time series & anomaly detection
 11. **[Week 11: Deep Learning Techniques for Univariate Time Series](./week11-dl-univariate)**: How to build various DL architectures for univariate time series
 12. **[Week 12: Deep Learning Techniques for Multivariate Time Series](./week12-dl-multivariate)**: How to build various DL architectures for multivariate time series
-13. **Week 13: Prophet**: How to apply Facebook's Prophet forecasting package to time series
+13. **[Week 13: Prophet](./week13-prophet)**: How to apply Facebook's Prophet forecasting package to time series
 14. **[Week 14: Time Series Classification](./week14-ts-classification)**: How peform manual & automated feature engineering on top of time series so that classificaiton models can be trained
 15. **Week 15: Review**: Course review in prep for Final
-16. **Week 16: Final**: Final exam
+16. **Week 16: Final**: Final project

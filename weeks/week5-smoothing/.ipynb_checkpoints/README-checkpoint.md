@@ -15,3 +15,7 @@ Step through the following notebooks:
 ## Solution
 
 [Holt Winters Computation & Visualization](sol1-holt-winters.ipynb): Solution Code
+
+## Course Objectives Addressed
+
+By learning to apply smoothing, we've addressed the **5th Course Objective**: Apply smoothing and regression techniques to forecast future values for time series

@@ -17,3 +17,7 @@ Step through the following notebooks:
 ## Solution
 
 [AR/MA](sol1-arma.ipynb): Solution Code
+
+## Course Objectives Addressed
+
+By learning to multiple regression-based forecasting techniques, we've addressed the **5th Course Objective**: Apply smoothing and regression techniques to forecast future values for time series

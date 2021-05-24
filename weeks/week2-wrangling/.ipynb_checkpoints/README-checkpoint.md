@@ -1,4 +1,5 @@
 # Week 2
+![image](timediff.jpeg)
 This week focuses on various data wrangling using pandas with special focus on time series manipulations such as resampling, shifting, and windowing functions
 
 ## Lesson Plan
@@ -16,3 +17,7 @@ Step through the following notebooks:
 
 1. [Resampling](sol1-resampling.ipynb): Resampling solution code
 2. [Windowing](sol2-rolling.ipynb): Windowing solution code
+
+## Course Objectives Addressed
+
+By learning various data wrangling techniques, we've addressed the **2nd Course Objective**: Prepare raw, messy data into format suitable for time series analysis

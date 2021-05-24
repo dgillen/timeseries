@@ -18,3 +18,7 @@ Step through the following notebooks:
 ## Solution
 
 [California Hospitality Industry Employees](sol1-california-hospitality.ipynb): Solution Code
+
+## Course Objectives Addressed
+
+By learning to multiple regression-based forecasting techniques, we've addressed the **5th Course Objective**: Apply smoothing and regression techniques to forecast future values for time series

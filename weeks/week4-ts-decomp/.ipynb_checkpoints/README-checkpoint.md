@@ -7,7 +7,7 @@ This week focuses on various ways to decompose a time series into the trend, sea
 ## Lesson Plan
 
 Step through the following notebooks:
-1. [Covid Seasonal Adjustment](les3-covid-decomp.ipynb): Step through this notebook 
+1. [Covid Seasonal Adjustment](les3-covid-decomp.ipynb): Step throught this notebook to get a bette understanding 
 2. [Customizing TS Visualization](les2-customizing.ipynb): Step through this notebook to better understand how to customize matplotlib plots
 
 ## Homework
@@ -17,3 +17,7 @@ Step through the following notebooks:
 ## Solution
 
 1. [Time Series Visualization](sol1-ts-viz.ipynb): Solution set
+
+## Course Objectives Addressed
+
+By learning to ways to decompose a time series, we've addressed the **4th Course Objective**: Decompose time series in fundamental trends, seasonal, and noise components

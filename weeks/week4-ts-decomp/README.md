@@ -17,3 +17,7 @@ Step through the following notebooks:
 ## Solution
 
 1. [Time Series Visualization](sol1-ts-viz.ipynb): Solution set
+
+## Course Objectives Addressed
+
+By learning to ways to decompose a time series, we've addressed the **4th Course Objective**: Decompose time series in fundamental trends, seasonal, and noise components

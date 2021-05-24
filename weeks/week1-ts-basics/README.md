@@ -1,7 +1,7 @@
 # Week 1
 ![image](time-series-types.png)
 
-This week focuses on various charactistics of time series such as trends, 
+This week focuses on applying detrending & developing basic vocabulary on characteristics of time series. 
 
 ## Lesson Plan
 Read Chapter 1 In Vishwas. 
@@ -18,3 +18,7 @@ Step through the following notebooks:
 ## Solution
 
 1. [Detrending](sol1-detrending.ipynb): Solution set
+
+## Course Objectives Addressed
+
+By introduction to time series, we've addressed the **1st Course Objective**: Describe the types of time series analysis and processing and their applications

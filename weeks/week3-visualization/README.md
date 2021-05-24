@@ -16,3 +16,7 @@ Step through the following notebooks:
 ## Solution
 
 1. [Time Series Visualization](sol1-ts-viz.ipynb): Solution set
+
+## Course Objectives Addressed
+
+By learning to ways to visulize a time series, we've addressed the **3rd Course Objective**: Visualize time series to gain deeper understanding of trends and patterns
