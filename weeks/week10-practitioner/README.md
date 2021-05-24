@@ -27,4 +27,8 @@ Write a **one-page brief** on the above packages in which you describe how a pra
 * **Challenges**: What are some key challenges in applying these packages?
 * **Additional Packages** Review [MaxBenChrist's excellent summary of time series packages](https://github.com/MaxBenChrist/awesome_time_series_in_python) & select a few that look most promising to try next and state why?
 
+## Course Objectives Addressed
+
+By learning to apply the above python packages to various times series analysis, we've addressed the **11th Course Objective**: Apply various python packages to solve tangential time series problems such as anomaly detection
+
 
