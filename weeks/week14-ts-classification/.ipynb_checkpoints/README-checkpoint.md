@@ -19,3 +19,7 @@ Step through the following notebooks:
 ## Solution
 
 [Classifier Comparison](sol1-compare.ipynb): Solution set
+
+## Course Objectives Addressed
+
+By learning 2 key types of methods to classify time series, we've addressed the **10th Course Objective**: Classify time series using state of the art methods and preparation techniques.

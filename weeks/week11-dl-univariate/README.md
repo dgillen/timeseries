@@ -21,4 +21,4 @@ In the previous weeks, you learned about using traditional techniques to work wi
 
 ## Course Objectives Addressed
 
-By learning to apply various univariate LSTM and other deep learning models, we've address the **7th Course Objective**: Build deep learning neural networks to forecast future values for time series
+By learning to apply various univariate LSTM and other deep learning models, we've addressed the **7th Course Objective**: Build deep learning neural networks to forecast future values for time series
