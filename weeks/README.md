@@ -22,6 +22,6 @@ Each subdirectory of the 16 weeks has the following set of files/director
 11. **[Week 11: Deep Learning Techniques for Univariate Time Series](./week11-dl-univariate)**: How to build various DL architectures for univariate time series
 12. **[Week 12: Deep Learning Techniques for Multivariate Time Series](./week12-dl-multivariate)**: How to build various DL architectures for multivariate time series
 13. **[Week 13: Prophet](./week13-prophet)**: How to apply Facebook's Prophet forecasting package to time series
-14. **[Week 14: Time Series Classification](./week14-ts-classification)**: How peform manual & automated feature engineering on top of time series so that classificaiton models can be trained
+14. **[Week 14: Time Series Classification](./week14-ts-classification)**: How perform manual & automated feature engineering on top of time series so that classification models can be trained
 15. **[Week 15: Review](./week15-review)**: Review: Course review in prep for Final
 16. **[Week 16: Final](./week16-final)**: Final: Final project
