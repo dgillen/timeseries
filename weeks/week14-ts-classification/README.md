@@ -1,5 +1,5 @@
 # Week 14
-![image](classify.png)
+![image](classify.png "Time Series Clasisification")
 
 A common task for time series machine learning is classification. Given a set of time series with class labels, can we train a model to accurately predict the class of new time series?
 
