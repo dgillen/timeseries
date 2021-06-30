@@ -1,5 +1,5 @@
 # Week 3 `Practitioner Packages`
-![image](anomalies.png)
+![image](anomalies.png "Anomalies from TsSmoothie")
 
 This week we'll focus on various time series packages that help a data science practioner more easily apply models, algorithms, transformation to time series.
 
