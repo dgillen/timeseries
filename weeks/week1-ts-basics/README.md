@@ -1,5 +1,5 @@
 # Week 1
-![image](time-series-types.png)
+![image][time-series-types](time-series-types.png)
 
 This week focuses on applying detrending & developing basic vocabulary on characteristics of time series. 
 
