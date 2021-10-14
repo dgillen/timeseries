@@ -1,4 +1,5 @@
 # Time Series Analysis Course
+![img](ts_banner.png "Time Series Analysis")
 
 ## Course Description
 

@@ -1,5 +1,5 @@
 # Week 11 `Univariate Deep Learning`
-![image](tsprep.jpg)
+![image](tsprep.jpg "Deep Learning Tensor Prep for Time Series")
 
 This week we'll focus on using univariate deep learning techniques to do time series forecasting.
 
