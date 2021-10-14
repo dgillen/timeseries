@@ -7,16 +7,15 @@ This week focuses on various ways to decompose a time series into the trend, sea
 ## Lesson Plan
 
 Step through the following notebooks:
-1. [Covid Seasonal Adjustment](les3-covid-decomp.ipynb): Step throught this notebook to get a bette understanding 
-2. [Customizing TS Visualization](les2-customizing.ipynb): Step through this notebook to better understand how to customize matplotlib plots
+1. [Covid Seasonal Adjustment](les1-covid-decomp.ipynb): Step throught this notebook to get a better understanding of types of decomposition.
 
 ## Homework
 
-1. [Time Series Visualization](hw1-ts-viz.ipynb): Problems asking to create many different types of ts visualizations
+1. [Used Car Sales](hw1-used-car-sales.ipynb): Problems asking to create many different types of ts visualizations
 
 ## Solution
 
-1. [Time Series Visualization](sol1-ts-viz.ipynb): Solution set
+1. [Used Car Sales](sol1-used-car-sales.ipynb): Solution set
 
 ## Course Objectives Addressed
 
